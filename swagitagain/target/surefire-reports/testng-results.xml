@@ -2,17 +2,17 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="swagitnewagain.swagitagain.AppTest" duration-ms="3626" started-at="2017-03-24T06:30:00Z" finished-at="2017-03-24T06:30:04Z">
+  <suite name="swagitnewagain.swagitagain.AppTest" duration-ms="6981" started-at="2017-03-24T17:09:21Z" finished-at="2017-03-24T17:09:28Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="3626" started-at="2017-03-24T06:30:00Z" finished-at="2017-03-24T06:30:04Z">
+    <test name="Command line test" duration-ms="6981" started-at="2017-03-24T17:09:21Z" finished-at="2017-03-24T17:09:28Z">
       <class name="swagitnewagain.swagitagain.AppTest">
-        <test-method status="FAIL" signature="swatrial()[pri:0, instance:swagitnewagain.swagitagain.AppTest@2f7a2457]" name="swatrial" duration-ms="3559" started-at="2017-03-24T00:30:00Z" finished-at="2017-03-24T00:30:04Z">
+        <test-method status="FAIL" signature="swatrial()[pri:0, instance:swagitnewagain.swagitagain.AppTest@96532d6]" name="swatrial" duration-ms="6911" started-at="2017-03-24T11:09:21Z" finished-at="2017-03-24T11:09:28Z">
           <exception class="org.openqa.selenium.WebDriverException">
             <message>
               <![CDATA[unknown error: cannot find Chrome binary
   (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 1.47 seconds
+Command duration or timeout: 3.85 seconds
 Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
 System info: host: 'KVK-PC', ip: '192.168.1.70', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.chrome.ChromeDriver]]>
@@ -20,7 +20,7 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver]]>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: unknown error: cannot find Chrome binary
   (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 1.47 seconds
+Command duration or timeout: 3.85 seconds
 Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
 System info: host: 'KVK-PC', ip: '192.168.1.70', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
@@ -37,7 +37,7 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:171)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:160)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at swagitnewagain.swagitagain.AppTest.swatrial(AppTest.java:15)
+	at swagitnewagain.swagitagain.AppTest.swatrial(AppTest.java:16)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

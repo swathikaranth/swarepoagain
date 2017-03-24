@@ -12,7 +12,7 @@ public class AppTest
 	
 	public void swatrial(){
 		
-		System.setProperty("webdriver.chrome.driver","C:/Users/KVK/Downloads/chromedriver_win32/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:/Program Files/chromedriver_win32 (1)/chromedriver.exe");
 		ChromeDriver driver=new ChromeDriver();
 		String eTitle= "Meet Guru99";
 		String aTitle= "";
