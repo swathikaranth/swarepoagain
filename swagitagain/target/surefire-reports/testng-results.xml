@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="swagitnewagain.swagitagain.AppTest" duration-ms="12714" started-at="2017-03-24T04:57:19Z" finished-at="2017-03-24T04:57:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12714" started-at="2017-03-24T04:57:19Z" finished-at="2017-03-24T04:57:32Z">
+      <class name="swagitnewagain.swagitagain.AppTest">
+        <test-method status="PASS" signature="swatrial()[pri:0, instance:swagitnewagain.swagitagain.AppTest@2f7a2457]" name="swatrial" duration-ms="12654" started-at="2017-03-23T22:57:19Z" finished-at="2017-03-23T22:57:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swatrial -->
+      </class> <!-- swagitnewagain.swagitagain.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- swagitnewagain.swagitagain.AppTest -->
+</testng-results>
